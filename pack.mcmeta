@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Trainers done the right way. By Softie!",
+    "pack_format": 48,
+    "supported_formats": {
+      "max_inclusive": 48,
+      "min_inclusive": 0
+    }
+  }
+}
