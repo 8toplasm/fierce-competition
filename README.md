@@ -1,5 +1,5 @@
 # Cobblemon: Fierce Competition
-Welcome! this is the source code for Fierce Competition, a MInecraft datapack/Cobblemon addon that introduces trainers and other things into your world
+Welcome! this is the source code for Fierce Competition, a Minecraft datapack/Cobblemon addon that introduces trainers and other things into your world
 
 You can download the latest version from:
 [Modrinth](https://modrinth.com/datapack/cbmn-fierce)
