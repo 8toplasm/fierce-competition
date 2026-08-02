@@ -1,0 +1,18 @@
+{
+    "presets": [
+        "cobblemon:psychic",
+        "cobblemon:trainer_default"
+    ],
+    "resourceIdentifier": "cobblemon:psychic",
+    "names": [
+        "Psychic Jean",
+        "Psychic Minerva",
+        "Psychic Leia",
+        "Psychic Wanda",
+        "Psychic Korra"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:psychic"
+    }
+}

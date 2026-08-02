@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:black_belt",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:black_belt.geo",
+      "texture": "cobblemon:textures/npcs/black_belt.png",
+      "layers": []
+    }
+  ]
+}

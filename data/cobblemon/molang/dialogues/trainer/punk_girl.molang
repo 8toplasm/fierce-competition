@@ -1,0 +1,10 @@
+t.1 = 'Sighh, I need a cute lady';
+t.2 = 'Waddup chud, you lookin for some trouble?';
+t.3 = 'Evil team? buddy, its just an aesthetic';
+t.4 = 'duhhhh';
+t.5 = 'Do you ever shut up? GOD so annoying SHUT UPP';
+t.6 = 'I\'d love to go to hell lowkeyy, they say its filled with these sick pig-men-like creatures';
+t.7 = 'Isn\'t it funny how "The End" is not actually the end?';
+t.8 = 'I know I\'m supposed to be dark n\' allat but Pillagers take it too far';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7, t.8);

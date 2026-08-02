@@ -1,0 +1,23 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "fiercecomp:towns/underwater/road_cluster_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "fiercecomp:towns/underwater/town_road_straight_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 7
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

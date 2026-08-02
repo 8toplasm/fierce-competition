@@ -1,0 +1,9 @@
+t.1 = 'Why hello there dear, do you want a treat?';
+t.2 = 'You\'re such a sweetheart, want some candy?';
+t.3 = 'Do you want a caramel sweetie?';
+t.4 = 'You\'re so nice dearie, have some delicacies for your Pokemon';
+t.5 = 'Why yes I do have some candy! want some?';
+t.6 = 'Your Pokemon seem tired... give them this to help them out';
+t.7 = 'You\'re so sweet darling, have a treat for your team';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7);

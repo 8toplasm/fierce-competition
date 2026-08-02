@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:punk_girl",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:punk_girl.geo",
+      "texture": "cobblemon:textures/npcs/punk_girl.png",
+      "layers": []
+    }
+  ]
+}

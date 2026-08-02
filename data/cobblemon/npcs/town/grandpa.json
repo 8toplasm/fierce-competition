@@ -1,0 +1,20 @@
+{
+    "presets": [
+        "cobblemon:town_default"
+    ],
+    "resourceIdentifier": "cobblemon:grandpa",
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:grandpa"
+    },
+    "names": [
+        "Grandpa Popo",
+        "Grandpa Toto",
+        "Grandpa Frank",
+        "Grandpa Will",
+        "Grandpa Francis",
+        "Grandpa Ed",
+        "Grandpa Oak",
+        "Grandpa Ben"
+    ]
+}

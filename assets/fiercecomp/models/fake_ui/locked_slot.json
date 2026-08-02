@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "fiercecomp:item/fake_ui/locked_slot"
+    },
+    "gui_light":"front",
+    "display": {
+		"gui": {
+			"rotation":  [ 0, 0, 0 ],
+			"translation":  [ 0, 0, 0 ],
+			"scale":  [ 1.105, 1.105, 1 ]
+		},
+		"ground" :{
+			"scale": [0,0,0]
+		}
+	}
+}

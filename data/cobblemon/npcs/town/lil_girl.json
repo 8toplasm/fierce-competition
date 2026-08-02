@@ -1,0 +1,24 @@
+{
+    "presets": [
+        "cobblemon:town_default"
+    ],
+    "hitbox": {
+        "width": 0.6,
+        "height": 1.3
+    },
+    "resourceIdentifier": "cobblemon:lil_girl",
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:lil_girl"
+    },
+    "names": [
+        "Lil Girl Elissa",
+        "Lil Girl Melissa",
+        "Lil Girl Gissella",
+        "Lil Girl Ali",
+        "Lil Girl Drea",
+        "Lil Girl Laura",
+        "Lil Girl Morgan",
+        "Lil Girl Mayday"
+    ]
+}

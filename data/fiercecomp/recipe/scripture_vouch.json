@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "tag": "cobblemon:apricorns"
+    }
+  ],
+  "result": {
+    "id": "minecraft:compass",
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Golden Scripture\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"text\":\"Rule: Toggle Voucher UI\", \"italic\":false}"
+      ],
+      "minecraft:custom_model_data": 7030007,
+      "minecraft:custom_data": {
+        "pseudo_edible": true
+      }
+    },
+    "count": 1
+  }
+}

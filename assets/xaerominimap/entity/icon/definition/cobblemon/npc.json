@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "cobblemon:textures/npcs/youngster.png": "outlined_sprite:base/youngster.png",
+        "cobblemon:textures/npcs/lass.png": "outlined_sprite:base/lass.png",
+        "cobblemon:textures/npcs/bug_catcher.png": "outlined_sprite:base/bug_catcher.png",
+        "cobblemon:textures/npcs/bird_keeper.png": "outlined_sprite:base/bird_keeper.png",
+        "cobblemon:textures/npcs/punk_girl.png": "outlined_sprite:base/punk_girl.png",
+        "cobblemon:textures/npcs/psychic.png": "outlined_sprite:base/psychic.png",
+        "cobblemon:textures/npcs/ninja_boy.png": "outlined_sprite:base/ninja_boy.png",
+        "cobblemon:textures/npcs/aroma_lady.png": "outlined_sprite:base/aroma_lady.png",
+
+        "cobblemon:textures/npcs/belly_guy.png": "outlined_sprite:base/belly_guy.png",
+        "cobblemon:textures/npcs/lil_girl.png": "outlined_sprite:base/lil_girl.png",
+        "cobblemon:textures/npcs/grandma.png": "outlined_sprite:base/grandma.png",
+        "cobblemon:textures/npcs/grandpa.png": "outlined_sprite:base/grandpa.png",
+
+        "cobblemon:textures/npcs/herh.png": "outlined_sprite:base/herh.png",
+        "cobblemon:textures/npcs/blarr.png": "outlined_sprite:base/blarr.png",
+
+        "cobblemon:textures/npcs/sacchi/sacchi.png": "outlined_sprite:base/sacchi.png"
+    }
+}

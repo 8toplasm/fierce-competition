@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "Bird Keeper",
+      "npc": "bird_keeper",
+      "presets": [
+        "natural"
+      ],
+      "type": "npc",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "weight": 2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_hills",
+          "#cobblemon:is_jungle"
+        ]
+      }
+    }
+  ]
+}

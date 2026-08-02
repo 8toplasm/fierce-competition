@@ -1,0 +1,18 @@
+{
+    "presets": [
+        "cobblemon:aroma_lady",
+        "cobblemon:trainer_default"
+    ],
+    "resourceIdentifier": "cobblemon:aroma_lady",
+    "names": [
+        "Aroma Lady Rose",
+        "Aroma Lady Jasmine",
+        "Aroma Lady Daisy",
+        "Aroma Lady Clover",
+        "Aroma Lady Ivy"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:aroma_lady"
+    }
+}

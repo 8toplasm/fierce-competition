@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:ninja_boy",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:little_guy",
+      "model": "cobblemon:ninja_boy.geo",
+      "texture": "cobblemon:textures/npcs/ninja_boy.png",
+      "layers": []
+    }
+  ]
+}

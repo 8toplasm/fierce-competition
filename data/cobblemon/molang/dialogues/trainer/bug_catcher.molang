@@ -1,0 +1,9 @@
+t.1 = 'Bugs are so cool!';
+t.2 = 'Hey! Am I "bugging" you out? eh? ha! heh heh';
+t.3 = 'Okay buddy it\'s NOT COOL to diss on my jokes like that. smh rn';
+t.4 = 'Did you hear what Robin was saying? He\'s driving me googledebunkers!!';
+t.5 = 'METAPOD, USE HARDEN!!';
+t.6 = 'The Nether sounds so scary.. fire? pigs?! HELL no';
+t.7 = 'Do not question the flatness of my net.';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7);

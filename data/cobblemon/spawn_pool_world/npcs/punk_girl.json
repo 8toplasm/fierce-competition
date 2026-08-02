@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "Punk Girl",
+      "npc": "punk_girl",
+      "presets": [
+        "natural"
+      ],
+      "type": "npc",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "weight": 4,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_mushroom",
+          "#cobblemon:is_swamp",
+          "#cobblemon:is_spooky"
+        ]
+      }
+    }
+  ]
+}

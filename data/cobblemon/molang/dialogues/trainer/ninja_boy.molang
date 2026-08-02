@@ -1,0 +1,7 @@
+t.1 = 'I\'m the best!';
+t.2 = 'Koya is so friggin awesomeee';
+t.3 = 'My Wheezing\'s toxins are comparable to bromine gas in terms of safety. Help.';
+t.4 = 'Yes, we\'re named after the turtles';
+t.5 = 'Endermen are masters of stealth. Whenever I try to catch one they just- poof';
+
+return q.random(t.1, t.2, t.3, t.4, t.5);

@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:bug_catcher",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:little_guy",
+      "model": "cobblemon:bug_catcher.geo",
+      "texture": "cobblemon:textures/npcs/bug_catcher.png",
+      "layers": []
+    }
+  ]
+}

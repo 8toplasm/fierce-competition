@@ -1,0 +1,17 @@
+{
+    "presets":[
+        "cobblemon:punk_girl",
+        "cobblemon:trainer_default"
+    ],
+    "resourceIdentifier": "cobblemon:punk_girl",
+    "names": [
+        "Punk Girl Marnie",
+        "Punk Girl Felicia",
+        "Punk Girl Harley",
+        "Punk Girl Violet"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:punk_girl"
+    }
+}

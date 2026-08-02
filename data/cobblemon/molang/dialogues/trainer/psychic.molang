@@ -1,0 +1,10 @@
+t.1 = 'heh... I saw you coming from a mile away, bud';
+t.2 = 'Don\'t even think about it';
+t.3 = 'Are you thinking what I\'m thinking? Oh. no you\'re not';
+t.4 = 'My IQ is ~500 little fella';
+t.5 = 'Who needs AI when you have natural stupidity like yours';
+t.6 = 'While you were merely pressing right-click to start this interaction I already calculated 5200510 possible outcomes of the upcoming battle and you do not win any single one of them. As a matter of fact, you actually end up losing pathetically over 2/3rds of the time due to my superior intellect thatr rivals even the likes of Einstein and Tesla. heh, I am just superior';
+t.7 = 'omputer :durr:';
+t.8 = 'Harvard didn\'t accept me cause I was beyond their level. Prepare to get beaten in a Pokemon battle';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7, t.8);

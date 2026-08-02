@@ -1,0 +1,7 @@
+gamerule commandBlockOutput false
+function fiercecomp:looping/loop_3s
+function fiercecomp:looping/loop_1s
+function fiercecomp:entity_sys/pillager/target_npcs
+function fiercecomp:aggro_sys/target/distributor
+function fiercecomp:gym_sys/vouch/display_vouch
+function fiercecomp:gym_sys/vouch/effect_logic

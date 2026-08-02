@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:lass",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:little_guy",
+      "model": "cobblemon:lass.geo",
+      "texture": "cobblemon:textures/npcs/lass.png",
+      "layers": []
+    }
+  ]
+}

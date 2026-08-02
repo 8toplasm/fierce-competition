@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:grandma",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:grandma.geo",
+      "texture": "cobblemon:textures/npcs/grandma.png",
+      "layers": []
+    }
+  ]
+}

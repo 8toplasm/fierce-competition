@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:compass",
+          "components": {
+            "minecraft:custom_data": {
+              "edible": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "fc_gamerule:local/vouch_ui"
+  }
+}

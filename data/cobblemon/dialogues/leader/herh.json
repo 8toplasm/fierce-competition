@@ -1,0 +1,29 @@
+{
+    "initializationAction": [
+        "q.npc.set_chatting();"
+    ],
+    "speakers": {
+        "npc": {
+            "name": {
+                "type": "expression",
+                "expression": "q.npc.name"
+            },
+            "face": "q.npc.face();",
+            "gibber": {}
+        },
+        "player": {
+            "face": "q.player.face();",
+            "name": {
+                "type": "expression",
+                "expression": "q.player.username"
+            }
+        }
+    },
+    "pages": [
+        {
+            "id": "battle_prompt",
+            "speaker": "npc",
+            "lines": ["This is not the place nor the time for your tomfoolery, trainer. Go to your spot and challenge me properly"]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "fallback": "fiercecomp:battle_towers/temperate/top",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "fiercecomp:battle_towers/temperate/block",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 5
+    }
+  ]
+}

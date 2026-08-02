@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "Youngster",
+      "npc": "youngster",
+      "presets": [
+        "natural"
+      ],
+      "type": "npc",
+      "context": "grounded",
+      "bucket": "common",
+      "weight": 3,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_grassland",
+          "#cobblemon:is_plains",
+          "#cobblemon:is_highlands",
+          "minecraft:beach"
+        ]
+      }
+    }
+  ]
+}

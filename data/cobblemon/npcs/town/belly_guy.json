@@ -1,0 +1,20 @@
+{
+    "presets": [
+        "cobblemon:town_default"
+    ],
+    "resourceIdentifier": "cobblemon:belly_guy",
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:belly_guy"
+    },
+    "names": [
+        "Belly Guy Rob",
+        "Belly Guy Earl",
+        "Belly Guy Rick",
+        "Belly Guy Carl",
+        "Belly Guy Phil",
+        "Belly Guy Sebastian",
+        "Belly Guy Deud",
+        "Belly Guy Bob"
+    ]
+}

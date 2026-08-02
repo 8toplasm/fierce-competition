@@ -1,0 +1,10 @@
+t.1 = 'Hello!!';
+t.2 = 'OUT OF THE WAYYY I GOTTA HIDE BEFORE DANIELLE GETS TO 10';
+t.3 = 'I love jigglypuffff!! so cutee!!';
+t.4 = 'When I become a trainer I\'ll pick Pombon!!';
+t.5 = 'My favorite color is blue but all the other girls think its a boy color..';
+t.6 = 'HONKKKK BE CAREFULL IM DRIVING MY BUSSS';
+t.7 = 'Tag! You\'re it!';
+t.8 = 'Why do you look funny?';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7, t.8);

@@ -1,0 +1,8 @@
+{
+    "values":[
+        "fiercecomp:setup/functions",
+        "fiercecomp:setup/players",
+        "fiercecomp:setup/teams",
+        "fiercecomp:setup/vars"
+    ]
+}

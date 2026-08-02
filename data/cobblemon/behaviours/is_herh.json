@@ -1,0 +1,19 @@
+{
+  "name": "Herhification",
+  "description": "Makes whoever this guy is into Herh (drops cool badge!!)",
+  "entityType": "cobblemon:npc",
+  "configurations": [
+    {
+      "type": "cobblemon:add_variables",
+      "variables": [
+        {
+          "variableName": "is_herh",
+          "displayName": "Is this Herh?",
+          "description": "When defeated this NPC will drop a sick and awesome and cool badge",
+          "type": "BOOLEAN",
+          "defaultValue": "1"
+        }
+      ]
+    }
+  ]
+}

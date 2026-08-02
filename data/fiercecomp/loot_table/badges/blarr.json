@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:compass",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Sinking Badge",
+                "color": "gold",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "value": 7030003
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

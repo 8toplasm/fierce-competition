@@ -1,0 +1,1 @@
+scoreboard players add @s voucher_level 1

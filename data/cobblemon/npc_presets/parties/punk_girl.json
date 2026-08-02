@@ -1,0 +1,107 @@
+{
+    "party": {
+        "type": "pool",
+        "minPokemon": "2",
+        "maxPokemon": "6",
+        "isStatic": false,
+        "useFixedRandom": true,
+        "pool": [
+            {
+                "pokemon": "umbreon",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "murkrow",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "honchkrow",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "sneasel",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "weavile",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "poochyena",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon":"mightyena",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "houndour",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "houndoom",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "purrloin",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "liepard",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "sableye",
+                "weight": "50",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "absol",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "morpeko",
+                "weight": "50",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "tyranitar",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "pangoro",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "Ninja Boy",
+      "npc": "ninja_boy",
+      "presets": [
+        "natural"
+      ],
+      "type": "npc",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "weight": 4,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_cherry_blossom",
+          "#cobblemon:is_taiga",
+          "#cobblemon:is_island"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "presets": [
+        "cobblemon:ninja_boy",
+        "cobblemon:trainer_default"
+    ],
+    "resourceIdentifier": "cobblemon:ninja_boy",
+    "names": [
+        "Ninja Boy Leonardo",
+        "Ninja Boy Raphael",
+        "Ninja Boy Michelangelo",
+        "Ninja Boy Donatello"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:ninja_boy"
+    }
+}

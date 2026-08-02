@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:lil_girl",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:little_guy",
+      "model": "cobblemon:lil_girl.geo",
+      "texture": "cobblemon:textures/npcs/lil_girl.png",
+      "layers": []
+    }
+  ]
+}

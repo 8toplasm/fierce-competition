@@ -1,0 +1,24 @@
+{
+  "structures": [
+    {
+      "structure": "fiercecomp:towns/town_overworld",
+      "weight": 1
+    },
+    {
+      "structure": "fiercecomp:towns/town_underwater",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 80,
+    "separation": 45,
+    "spread_type": "triangular",
+    "salt": 7030000,
+    "frequency": 0.8,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 2
+    }
+  }
+}

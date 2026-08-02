@@ -1,0 +1,125 @@
+{
+    "party": {
+        "type": "pool",
+        "minPokemon": "2",
+        "maxPokemon": "6",
+        "isStatic": false,
+        "useFixedRandom": true,
+        "pool": [
+            {
+                "pokemon": "abra",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "kadabra",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "alakazam",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "slowpoke",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "slowbro",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "slowking",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "drowzee",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "hypno",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "exeggcute",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "exeggutor",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "mrmime",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "jynx",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "natu",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "xatu",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "girafarig",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "unown",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - 3"
+            },
+            {
+                "pokemon": "wobbuffet",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "espeon",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "unown hp_iv=31 defense_iv=31 special_defense_iv=31",
+                "weight": "1",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - 3"
+            }
+        ]
+    }
+}

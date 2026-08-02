@@ -1,0 +1,13 @@
+'Taken from 201 Trainers, shot-out to them. modrinth.com/datapack/201-trainers-cobblemon';
+
+for_each(t.loser, c.npc_losers, {
+  t.loser.npc.config.is_herh ? {
+    for_each(t.player_winner, c.player_winners, {
+      v.player = t.player_winner.player;
+      v.npc = t.loser.npc;
+      q.set_query('player', t.player_winner.player);
+      q.set_query('npc', t.loser.npc);
+      q.run_command('loot give ' + v.player.username() + ' loot fiercecomp:badges/herh'); 
+    });
+  };
+});

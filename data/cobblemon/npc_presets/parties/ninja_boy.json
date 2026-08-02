@@ -1,0 +1,245 @@
+{
+    "party": {
+        "type": "pool",
+        "minPokemon": "2",
+        "maxPokemon": "6",
+        "isStatic": false,
+        "useFixedRandom": true,
+        "pool": [
+            {
+                "pokemon": "ekans",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "arbok",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "nidoranf",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "nidorina",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "nidoqueen",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "nidoranm",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "nidorino",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "nidoking",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "weedle",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "kakuna",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "beedril",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "oddish",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "gloom",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "vileplume",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "venonat",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "venomoth",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "bellsprout",
+                "weight": "50",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "weepinbell",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "victreebel",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "tentacool",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "tentacruel",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "grimer",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "muk",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "gastly",
+                "weight": "50",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "haunter",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "gengar",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "koffing",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "weezing",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "zubat",
+                "weight": "50",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "golbat",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "crobat",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "spinarak",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "ariados",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "qwilfish",
+                "weight": "50",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "budew",
+                "weight": "50",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "roselia",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "roserade",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "skorupi",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "drapion",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            }
+        ]
+    }
+}

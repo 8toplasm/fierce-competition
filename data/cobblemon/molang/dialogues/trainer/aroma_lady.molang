@@ -1,0 +1,7 @@
+t.1 = 'Oh hello sweetie';
+t.2 = 'Sighhh, I need an emo girl';
+t.3 = 'Gardening is such a pure hobby. I love my flowers';
+t.4 = 'Hihii Trainer! wanna smell my Aromatisee\'s perfume?';
+t.5 = 'UGH! Those Endermen keep stealing the grass under my crops!!';
+
+return q.random(t.1, t.2, t.3, t.4, t.5);

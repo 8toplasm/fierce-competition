@@ -1,0 +1,18 @@
+{
+    "presets": [
+        "cobblemon:bird_keeper",
+        "cobblemon:trainer_default"
+    ],
+    "resourceIdentifier": "cobblemon:bird_keeper",
+    "names": [
+        "Hawk Keeper Hailey",
+        "Bird Keeper Abe",
+        "Bird Keeper Robin",
+        "Bird Keeper Raven",
+        "Bird Keeper Mordecai"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:bird_keeper"
+    }
+}

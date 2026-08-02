@@ -1,0 +1,11 @@
+{
+  "criteria": {
+    "invChanged": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "fiercecomp:miscelaneous/replace_relevant_items"
+  }
+}

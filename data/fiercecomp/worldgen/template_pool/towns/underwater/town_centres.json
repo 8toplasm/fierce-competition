@@ -1,0 +1,23 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "fiercecomp:towns/underwater/town_centre_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "fiercecomp:gyms/gym_blarr",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 25
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

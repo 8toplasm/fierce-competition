@@ -1,0 +1,17 @@
+{
+    "presets": [
+        "cobblemon:bug_catcher",
+        "cobblemon:trainer_default"
+    ],
+    "resourceIdentifier": "cobblemon:bug_catcher",
+    "names": [
+        "Bug Catcher Al",
+        "Bug Catcher Fregley",
+        "Bug Catcher Ken",
+        "Bug Catcher Samurai"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:bug_catcher"
+    }
+}

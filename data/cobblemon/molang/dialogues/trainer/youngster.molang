@@ -1,0 +1,16 @@
+t.1 = 'I\'m the best!';
+t.2 = 'Man, I love Rattata';
+t.3 = 'Am I annoying enough?';
+t.4 = 'You know, Rattata are the next generation of coolness';
+t.5 = 'Erm, what the skibidi sigma rizz 67 ohio-core did diddyblud lowkirkeniunely spit';
+t.6 = 'Am I annoying enough?';
+t.7 = 'Eating dirt is my passion';
+t.8 = 'You know, I might be a boy, but the complex nature of my very existance has charmed me in ways no other stimuli has. the mere fact that i am standing in a place so thriving with wildlife has expanded the horizon of my cognitive abilities with the sole purpose of loving the land upon we rest our feeble meat mechs. I have grown fond of my surrounding area and will remember this moment for the rest of my human lifespan';
+t.9 = 'Some Villagers say Herh once fought off an entire raid by himself... must be a very powerful Gym Leader';
+t.10 = 'Pillagers are so scary, they almost killed my poor Rattata last time...';
+t.11 = 'Who are you?! Are you going to rob me?!!';
+t.12 = 'We really need to stick together with how frequently these Pillagers are patrolling..';
+t.13 = 'Herh is said to build the Golurks that guard off his village using a special Iron & Clay mixture';
+t.14 = 'A cartographer once spoke to me about a lost underwater civilization. I don\'t buy it tho, they must\'ve drowned';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7, t.8, t.9, t.10, t.11, t.12, t.13, t.14);

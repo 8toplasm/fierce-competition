@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "hasScripture": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "fiercecomp:scripture_vouch"
+      }
+    }
+  },
+  "rewards": {
+    "function": "fiercecomp:miscelaneous/tag_vouch_scripture"
+  }
+}

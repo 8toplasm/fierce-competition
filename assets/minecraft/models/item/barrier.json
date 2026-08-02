@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/barrier"
+  },
+  "overrides": [
+        { "predicate": {"custom_model_data": 7030001}, "model": "fiercecomp:fake_ui/locked_slot" },
+        { "predicate": {"custom_model_data": 7030002}, "model": "fiercecomp:fake_ui/arrow_1" },
+        { "predicate": {"custom_model_data": 7030003}, "model": "fiercecomp:fake_ui/arrow_2" },
+        { "predicate": {"custom_model_data": 7030004}, "model": "fiercecomp:fake_ui/badge_empty" }
+  ]
+}

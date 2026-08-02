@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "goatHorn": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:goat_horn",
+          "components": {
+            "minecraft:instrument": "minecraft:yearn_goat_horn",
+            "minecraft:custom_name": "{\"text\":\"Loud Horn\", \"italic\":false}",
+            "minecraft:custom_model_data": 7030001
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "fiercecomp:gym_sys/cutscene/herh/start"
+  }
+}

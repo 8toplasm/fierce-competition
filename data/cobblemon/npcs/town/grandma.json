@@ -1,0 +1,20 @@
+{
+    "presets": [
+        "cobblemon:town_default"
+    ],
+    "resourceIdentifier": "cobblemon:grandma",
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:grandma"
+    },
+    "names": [
+        "Grandma Nina",
+        "Grandma Tita",
+        "Grandma Wiwa",
+        "Grandma Fifa",
+        "Grandma Lila",
+        "Grandma Mima",
+        "Grandma Birch",
+        "Grandma May"
+    ]
+}

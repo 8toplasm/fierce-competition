@@ -1,0 +1,25 @@
+{
+  "structures": [
+    {
+      "structure": "fiercecomp:battle_towers/tower_temperate",
+      "weight": 1
+    },
+    {
+      "structure": "fiercecomp:battle_towers/tower_cold",
+      "weight": 1
+    },
+    {
+      "structure": "fiercecomp:battle_towers/tower_hot",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 20,
+    "spread_type": "triangular",
+    "salt": 703000,
+    "frequency_reduction_method": "default",
+    "frequency": 0.3
+  }
+}

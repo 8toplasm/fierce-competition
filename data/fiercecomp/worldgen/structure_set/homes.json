@@ -1,0 +1,45 @@
+{
+  "structures": [
+    {
+      "structure": "fiercecomp:homes/home_youngster",
+      "weight": 5
+    },
+    {
+      "structure": "fiercecomp:homes/home_lass",
+      "weight": 5
+    },
+    {
+      "structure": "fiercecomp:homes/home_bug_catcher",
+      "weight": 5
+    },
+    {
+      "structure": "fiercecomp:homes/home_bird_keeper",
+      "weight": 5
+    },
+    {
+      "structure": "fiercecomp:homes/home_psychic",
+      "weight": 5
+    },
+    {
+      "structure": "fiercecomp:homes/home_punk_girl",
+      "weight": 5
+    },
+    {
+      "structure": "fiercecomp:homes/home_ninja_boy",
+      "weight": 5
+    },
+    {
+      "structure": "fiercecomp:homes/home_aroma_lady",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 9,
+    "separation": 1,
+    "spread_type": "triangular",
+    "salt": 703000,
+    "frequency_reduction_method": "default",
+    "frequency": 0.2
+  }
+}

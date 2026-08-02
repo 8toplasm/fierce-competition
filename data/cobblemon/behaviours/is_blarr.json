@@ -1,0 +1,19 @@
+{
+  "name": "Blarrification",
+  "description": "Makes whoever this guy is into Blarr (drops cool badge!!)",
+  "entityType": "cobblemon:npc",
+  "configurations": [
+    {
+      "type": "cobblemon:add_variables",
+      "variables": [
+        {
+          "variableName": "is_blarr",
+          "displayName": "Is this Blarr?",
+          "description": "When defeated this NPC will drop a sick and awesome and cool badge",
+          "type": "BOOLEAN",
+          "defaultValue": "1"
+        }
+      ]
+    }
+  ]
+}

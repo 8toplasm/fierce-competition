@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:herh",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:herh",
+      "model": "cobblemon:herh.geo",
+      "texture": "cobblemon:textures/npcs/herh.png",
+      "layers": []
+    }
+  ]
+}

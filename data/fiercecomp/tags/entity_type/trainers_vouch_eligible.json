@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:drowned",
+    "minecraft:guardian",
+    "minecraft:piglin",
+    "minecraft:piglin_brute",
+    "minecraft:enderman",
+    "minecraft:shulker"
+  ]
+}

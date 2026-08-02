@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:blarr",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:blarr",
+      "model": "cobblemon:blarr.geo",
+      "texture": "cobblemon:textures/npcs/blarr.png",
+      "layers": []
+    }
+  ]
+}

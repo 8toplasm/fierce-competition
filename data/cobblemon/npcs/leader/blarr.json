@@ -1,0 +1,54 @@
+{
+    "resourceIdentifier": "cobblemon:blarr",
+    "presets": [
+        "cobblemon:leader_default"
+    ],
+    "interaction": {
+        "type": "dialogue",
+        "dialogue": "cobblemon:blarr"
+    },
+    "names": [
+        "Blarr"
+    ],
+    "party": {
+        "type": "pool",
+        "minPokemon": "4",
+        "maxPokemon": "4",
+        "isStatic": false,
+        "useFixedRandom": true,
+        "pool": [
+            {
+                "pokemon": "omastar held_item=cobblemon:rocky_helmet ability=weakarmor moves=scald,icebeam,ancientpower,earthpower hp_iv=31 attack_iv=0 special_defense_iv=31 speed_iv=0 defense_iv=31 special_attack_iv=31 defense_ev=60 special_attack_ev=90 speed_ev=30",
+                "weight": "1",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - 2"
+            },
+            {
+                "pokemon": "toxapex held_item=cobblemon:black_sludge ability=regenerator moves=toxicspikes,recover,scald,lightscreen attack_iv=0 special_attack_iv=0 defense_iv=31 special_defense_iv=31 speed_iv=31 hp_iv=31 defense_ev=60 special_defense_ev=60 hp_ev=60",
+                "weight": "1",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level"
+            },
+            {
+                "pokemon": "gyarados held_item=cobblemon:choice_scarf ability=moxie moves=aquatail,dragontail,bounce,icefang attack_iv=31 hp_iv=31 defense_iv=31 speed_iv=31 special_attack_iv=0 special_defense_iv=0 attack_ev=90 speed_ev=90",
+                "weight": "1",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level + 1"
+            },
+            {
+                "pokemon": "dhelmise held_item:cobblemon:leftovers moves=knockoff,shadowclaw,gyroball,anchorshot attack_iv=31 hp_iv=31 special_defense_iv=31 defense_iv=31 speed_iv=0 special_attack_iv=0 attack_ev=60 hp_ev=90 defense_ev=30",
+                "weight": "1",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level"
+            }
+        ]
+    },
+    "ai": [
+        {
+            "type": "cobblemon:apply_behaviours",
+            "behaviours": [
+                "cobblemon:is_blarr"
+            ]
+        }
+    ]
+}

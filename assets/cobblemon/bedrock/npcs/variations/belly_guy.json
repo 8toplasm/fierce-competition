@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:belly_guy",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:belly_guy.geo",
+      "texture": "cobblemon:textures/npcs/belly_guy.png",
+      "layers": []
+    }
+  ]
+}

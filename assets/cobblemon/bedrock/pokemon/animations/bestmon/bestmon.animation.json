@@ -1,0 +1,149 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.bestultimon.cry": {
+			"animation_length": 0.5417,
+			"bones": {
+				"bestmon": {
+					"rotation": {
+						"0.0": {
+							"post": [2.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.0417": [3.70763, 0, 0],
+						"0.0833": [4, 0, 0],
+						"0.125": [3.09127, 0, 0],
+						"0.1667": [-4.00751, 0, 0],
+						"0.2083": {
+							"pre": [-5, 0, 0],
+							"post": [-5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.375": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"mouth": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.1667": {
+							"pre": [0, 0, 0],
+							"post": [0, 0, -1]
+						},
+						"0.3333": {
+							"pre": [0, 0, -1],
+							"post": [0, 0, -1]
+						},
+						"0.5": {
+							"pre": [0, 0, -1],
+							"post": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.bestultimon.physical": {
+			"animation_length": 1,
+			"bones": {
+				"bestmon": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.2083": {
+							"post": [2.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.4167": {
+							"post": [17.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.5": {
+							"post": [87.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [87.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		},
+		"animation.bestmon.cry": {
+			"animation_length": 0.5417,
+			"bones": {
+				"bestmon": {
+					"rotation": {
+						"0.0": {
+							"post": [2.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.0417": [3.70763, 0, 0],
+						"0.0833": [4, 0, 0],
+						"0.125": [3.09127, 0, 0],
+						"0.1667": [-4.00751, 0, 0],
+						"0.2083": {
+							"pre": [-5, 0, 0],
+							"post": [-5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.375": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"mouth": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.1667": {
+							"pre": [0, 0, 0],
+							"post": [0, 0, -1]
+						},
+						"0.3333": {
+							"pre": [0, 0, -1],
+							"post": [0, 0, -1]
+						},
+						"0.5": {
+							"pre": [0, 0, -1],
+							"post": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.bestmon.physical": {
+			"animation_length": 1,
+			"bones": {
+				"bestmon": {
+					"rotation": {
+						"0.0": {
+							"post": [0, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.2083": {
+							"post": [2.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.4167": {
+							"post": [17.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"0.5": {
+							"post": [87.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						},
+						"1.0": {
+							"post": [87.5, 0, 0],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			}
+		}
+	}
+}

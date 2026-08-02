@@ -1,0 +1,191 @@
+{
+"party": {
+        "type": "pool",
+        "minPokemon": "2",
+        "maxPokemon": "6",
+        "isStatic": false,
+        "useFixedRandom": true,
+        "pool": [
+            {
+                "pokemon": "caterpie",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "metapod",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "butterfree hp_iv=31",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "weedle",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "kakuna",
+                "weight": "30",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "beedrill speed_iv=31",
+                "weight": "10",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "paras",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "parasect",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "venonat",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "venomoth",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "pinsir",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - 1"
+            },
+            {
+                "pokemon": "scyther",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - 1"
+            },
+            {
+                "pokemon": "scizor",
+                "weight": "5",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level + 2"
+            },
+            {
+                "pokemon": "ledyba",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "ledian hp_iv=31",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "spinarak",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "ariados attack_iv=31",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "pineco",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "forretress",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "yanma",
+                "weight": "50",
+                "selectableTimes": "3",
+                "level": "q.player.party.highest_level - q.random(7, 5, 3)"
+            },
+            {
+                "pokemon": "yanmega",
+                "weight": "30",
+                "selectableTimes": "2",
+                "level": "q.player.party.highest_level - q.random(5, 3, 1)"
+            },
+            {
+                "pokemon": "shuckle",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - 1"
+            },
+            {
+                "pokemon": "heracross",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - 1"
+            },
+            {
+                "pokemon": "volbeat",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 7)"
+            },
+            {
+                "pokemon": "illumise",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 7)"
+            },
+            {
+                "pokemon": "surskit",
+                "weight": "30",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 7)"
+            },
+            {
+                "pokemon": "masquerain speed_iv=31",
+                "weight": "10",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3)"
+            },
+            {
+                "pokemon": "nincada",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3, 7)"
+            },
+            {
+                "pokemon": "ninjask speed_iv=31",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - q.random(5, 3)"
+            },
+            {
+                "pokemon": "shedinja attack_iv=31",
+                "weight": "20",
+                "selectableTimes": "1",
+                "level": "q.player.party.highest_level - 3"
+            }
+        ]
+    }
+}

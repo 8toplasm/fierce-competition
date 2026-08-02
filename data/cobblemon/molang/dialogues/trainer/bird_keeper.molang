@@ -1,0 +1,10 @@
+t.1 = 'CACKAWWW!';
+t.2 = 'Heh, you know what they say.... chirp';
+t.3 = 'Yeah! Falkner is my inspo!';
+t.4 = 'My Pidgeotto is gonna poop on your car\'s window, pal';
+t.5 = 'Hawk WHAT???';
+t.6 = 'We don\'t talk about Duolingo.';
+t.7 = 'Zombies love bathing so much they drown!';
+t.8 = 'Did you know Atlantis is real? EARTH IS CUBIC, DON\'T BELIEVE MAINSTREAM ACADEMIA';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7, t.8);

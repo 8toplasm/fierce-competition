@@ -1,0 +1,10 @@
+t.1 = 'yo';
+t.2 = 'hey';
+t.3 = 'sup';
+t.4 = 'wsg';
+t.5 = 'how we doin';
+t.6 = 'waddup';
+t.7 = 'dam';
+t.8 = 'crazy';
+
+return q.random(t.1, t.2, t.3, t.4, t.5, t.6, t.7, t.8);

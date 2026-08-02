@@ -1,0 +1,13 @@
+{
+  "name": "cobblemon:aroma_lady",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:standard",
+      "model": "cobblemon:aroma_lady.geo",
+      "texture": "cobblemon:textures/npcs/aroma_lady.png",
+      "layers": []
+    }
+  ]
+}

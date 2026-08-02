@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "hasHit": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": [
+            "minecraft:drowned",
+            "minecraft:piglin",
+            "minecraft:piglin_brute",
+            "minecraft:zombified_piglin",
+            "minecraft:enderman"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "fiercecomp:gym_sys/vouch/override_vouch"
+  }
+}

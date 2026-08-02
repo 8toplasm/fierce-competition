@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "spawns": [
+    {
+      "id": "Bug Catcher",
+      "npc": "bug_catcher",
+      "presets": [
+        "natural"
+      ],
+      "type": "npc",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "weight": 2,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": [
+          "#cobblemon:is_forest",
+          "#cobblemon:is_mushroom",
+          "#cobblemon:is_swamp"
+        ]
+      }
+    }
+  ]
+}

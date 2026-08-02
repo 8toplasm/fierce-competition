@@ -1,0 +1,1 @@
+summon wandering_trader ~ ~ ~ {Tags:["drowned_trader", "trustworthy"],ArmorItems:[{},{id:"minecraft:rotten_flesh",count:1},{id:"minecraft:rotten_flesh",count:1},{}],ArmorDropChances:[0.085F,0.500F,0.500F,0.085F],active_effects:[{id:"minecraft:water_breathing",amplifier:3,duration:-1,show_particles:0b}],attributes:[{id:"minecraft:generic.gravity",base:0.55}]}
